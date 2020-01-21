@@ -1,0 +1,92 @@
+c:\users\izaz\documents\visual studio 2010\Projects\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.exe
+c:\users\izaz\documents\visual studio 2010\Projects\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.pdb
+c:\users\izaz\documents\visual studio 2010\Projects\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Form1.resources
+c:\users\izaz\documents\visual studio 2010\Projects\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Properties.Resources.resources
+c:\users\izaz\documents\visual studio 2010\Projects\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csproj.GenerateResource.Cache
+c:\users\izaz\documents\visual studio 2010\Projects\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.exe
+c:\users\izaz\documents\visual studio 2010\Projects\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.pdb
+c:\users\izaz\documents\visual studio 2010\Projects\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Form2.resources
+E:\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.exe
+E:\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.pdb
+E:\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.exe
+E:\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.pdb
+E:\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csprojResolveAssemblyReference.cache
+E:\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Form1.resources
+E:\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Properties.Resources.resources
+E:\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Register.resources
+E:\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csproj.GenerateResource.Cache
+E:\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Login.resources
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.exe
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.pdb
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csprojResolveAssemblyReference.cache
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Form1.resources
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Login.resources
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Properties.Resources.resources
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Register.resources
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csproj.GenerateResource.Cache
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.exe
+C:\Users\201506100110121\Downloads\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.pdb
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.exe.config
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.exe
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.pdb
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csprojResolveAssemblyReference.cache
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Form1.resources
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Login.resources
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Properties.Resources.resources
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Register.resources
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csproj.GenerateResource.Cache
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\bin\Debug\Database1.mdf
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\bin\Debug\Database1_log.ldf
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.exe
+C:\Users\Yagnik\Downloads\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.pdb
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.exe.config
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.exe
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.pdb
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\bin\Debug\Database1.mdf
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\bin\Debug\Database1_log.ldf
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.exe
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\bin\Debug\Online Galary managment system.pdb
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csprojResolveAssemblyReference.cache
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Form1.resources
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Login.resources
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Properties.Resources.resources
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Register.resources
+C:\Users\vrund\Desktop\Online Galary managment system\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\bin\Debug\Online Galary managment system.exe.config
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online Galary managment system.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online Galary managment system.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csprojResolveAssemblyReference.cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Form1.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Login.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Properties.Resources.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Register.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csproj.GenerateResource.Cache
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\bin\Debug\Database1.mdf
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\bin\Debug\Database1_log.ldf
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\bin\Debug\Online Galary managment system.exe
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\bin\Debug\Online Galary managment system.pdb
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.feedback.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.aboutus.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.mainPagePhoto.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.AdminPage.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Welcome.resources
+C:\Users\hp\Documents\Visual Studio 2010\Projects\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Viewpage.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\bin\Debug\Online Galary managment system.exe.config
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online Galary managment system.exe
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online Galary managment system.pdb
+C:\Users\Izaz\Desktop\Online Galary managment system\bin\Debug\Database1.mdf
+C:\Users\Izaz\Desktop\Online Galary managment system\bin\Debug\Database1_log.ldf
+C:\Users\Izaz\Desktop\Online Galary managment system\bin\Debug\Online Galary managment system.exe
+C:\Users\Izaz\Desktop\Online Galary managment system\bin\Debug\Online Galary managment system.pdb
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csprojResolveAssemblyReference.cache
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.aboutus.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.AdminPage.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.feedback.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Form1.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Login.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.mainPagePhoto.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Properties.Resources.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Register.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Viewpage.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online_Galary_managment_system.Welcome.resources
+C:\Users\Izaz\Desktop\Online Galary managment system\obj\x86\Debug\Online Galary managment system.csproj.GenerateResource.Cache
